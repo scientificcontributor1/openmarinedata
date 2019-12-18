@@ -15,6 +15,13 @@ Here are the steps we're looking to follow. Any contribution to the codes of thi
 ### Satellite tracking data paper
 Our first example is tagging data. It's a good one as a satellite tag cost ~$4000 so these data are very costly to get. Basically you really don't want other people to access them before you publish them. Obviously it is a big waste for the scientific community and species management and conservation. On the flip side, science is projects and money which depend on your ability to publish paper. It's circular looping...
 
+### Connect your data to the main marine and biodiversity data catalogue
+Your data are visible and used as we specify the metadata so they can be included in most of the data catalogues
+- GBIF
+- GeoNetwork (Sextant)
+- MoveBank
+- ...
+
 ### Expanding to other marine data
 Then we'll apply these concept to other marine data: buoys, boats tracking, fish sampling (weight, length, maturity, ...), and any other kind of marine data.
 
